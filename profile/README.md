@@ -1,22 +1,27 @@
+<p align="center">
+  <a href="https://productx.video">
+    <img src="productx-logo.png" alt="ProductX logo" width="112" />
+  </a>
+</p>
+
+
 # ProductX
 
-ProductX builds AI creative workflows for ecommerce teams that need ad videos, product videos, and faster creative iteration.
+ProductX helps ecommerce teams generate ad videos, product videos, and structured creative variants from product inputs, market references, and campaign briefs.
 
-![ProductX logo](productx-logo.png)
+## Official Resources
 
-## Official Links
-
-- Website: https://productx.video
-- Public feedback: https://github.com/productx-video/productx/issues
-- Roadmap: https://github.com/productx-video/productx/blob/main/ROADMAP.md
+- Website: [productx.video](https://productx.video)
+- Public repository: [productx-video/productx](https://github.com/productx-video/productx)
+- Feedback and issues: [github.com/productx-video/productx/issues](https://github.com/productx-video/productx/issues)
+- Roadmap: [ROADMAP.md](https://github.com/productx-video/productx/blob/main/ROADMAP.md)
 - Support: support@productx.video
 
 ## Product Areas
 
-- AI ad clone workflows
-- Link-to-video and product-input video generation
-- Product video generation
-- Storyboard review and creative iteration
-- Ecommerce creative testing workflows
+- Generate ecommerce ad videos from product inputs and briefs.
+- Create product videos that explain an item instead of only producing generic motion.
+- Build variants from one creative direction for faster testing.
+- Use ad-clone workflows as structure-based remakes rather than reused footage.
 
-This organization hosts public product documentation and feedback channels for ProductX.
+This organization profile points to the official public GitHub resources for ProductX. Production source code and private operational configuration are not published here.
