@@ -11,9 +11,9 @@ ProductX helps ecommerce teams generate ad videos, product videos, and structure
 
 ## Official Resources
 
-- Website: [productx.video](https://productx.video)
+- Website: [ProductX AI product and ad video generator](https://productx.video)
 - Public repository: [productx-video/productx](https://github.com/productx-video/productx)
-- Feedback and issues: [github.com/productx-video/productx/issues](https://github.com/productx-video/productx/issues)
+- Feedback and issues: [ProductX public feedback on GitHub](https://github.com/productx-video/productx/issues)
 - Roadmap: [ROADMAP.md](https://github.com/productx-video/productx/blob/main/ROADMAP.md)
 - Support: support@productx.video
 
